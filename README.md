@@ -11,3 +11,8 @@ More blah
 And another blah for me
 
 ## How to contribute
+
+
+### Copyright
+
+copyright added
