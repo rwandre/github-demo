@@ -1,2 +1,7 @@
 # github-demo
-Demo repository
+
+## Introduction
+
+## Purpose
+
+## How to contribute
