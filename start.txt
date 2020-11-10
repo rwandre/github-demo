@@ -2,4 +2,4 @@ Adding copyright note
 
 Testing Git
 
-what commit?
+commit that
