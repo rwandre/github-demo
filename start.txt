@@ -1,9 +1,5 @@
 Adding copyright note
 
-Mudando o arquivo
-
-add mais um paragrafo
-
 Testing Git
 
-commit that
+what commit?
