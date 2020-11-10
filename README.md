@@ -20,4 +20,4 @@ And believe, me, more blah
 
 ### Copyright
 
-copyright added
+copyright added. More all right reserved
