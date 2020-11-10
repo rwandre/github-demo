@@ -1,5 +1,3 @@
-Adding copyright note
-
-Testing Git
+Testing Git more than that
 
 commit that
